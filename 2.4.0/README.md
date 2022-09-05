@@ -15,6 +15,8 @@
 * [Technical information](spec/technical_info.md)
 * [Tickets](spec/tickets.md)
 * [Web portal - Forward customers to SP service portals](spec/web_portal.md)
+* [Disturbance - Report on disturbances in SO network](spec/web_portal.md)
+
  
 ## General guidelines
 
